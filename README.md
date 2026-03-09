@@ -1,7 +1,7 @@
 # Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
 # Project Overview <br>
-Electric Vehicles (EVs) are reshaping global transportation. This project uses Tableau to build <br>
-an interactive dashboard that visualizes data on EV models, specifications, and charging <br>
+# Electric Vehicles (EVs) are reshaping global transportation. This project uses Tableau to build <br>
+# an interactive dashboard that visualizes data on EV models, specifications, and charging <br>
 infrastructure across India and globally. The goal is to help EV buyers and policy <br>
 analysts explore insights and make informed decisions. <br><br>
 Problem Statement <br>
